@@ -1,0 +1,9 @@
+/home/runner/work/BackendTPI/BackendTPI/tarifas-service/src/main/java/com/transportista/tarifas/dto/ClienteDTO.java
+/home/runner/work/BackendTPI/BackendTPI/tarifas-service/src/main/java/com/transportista/tarifas/entity/Cliente.java
+/home/runner/work/BackendTPI/BackendTPI/tarifas-service/src/main/java/com/transportista/tarifas/config/SecurityConfig.java
+/home/runner/work/BackendTPI/BackendTPI/tarifas-service/src/main/java/com/transportista/tarifas/controller/ClienteController.java
+/home/runner/work/BackendTPI/BackendTPI/tarifas-service/src/main/java/com/transportista/tarifas/TarifasServiceApplication.java
+/home/runner/work/BackendTPI/BackendTPI/tarifas-service/src/main/java/com/transportista/tarifas/entity/Tarifa.java
+/home/runner/work/BackendTPI/BackendTPI/tarifas-service/src/main/java/com/transportista/tarifas/repository/ClienteRepository.java
+/home/runner/work/BackendTPI/BackendTPI/tarifas-service/src/main/java/com/transportista/tarifas/repository/TarifaRepository.java
+/home/runner/work/BackendTPI/BackendTPI/tarifas-service/src/main/java/com/transportista/tarifas/service/ClienteService.java

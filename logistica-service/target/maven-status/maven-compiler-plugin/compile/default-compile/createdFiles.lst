@@ -1,0 +1,6 @@
+com/transportista/logistica/config/SecurityConfig.class
+com/transportista/logistica/entity/Deposito.class
+com/transportista/logistica/repository/DepositoRepository.class
+com/transportista/logistica/LogisticaServiceApplication.class
+com/transportista/logistica/repository/CamionRepository.class
+com/transportista/logistica/entity/Camion.class
