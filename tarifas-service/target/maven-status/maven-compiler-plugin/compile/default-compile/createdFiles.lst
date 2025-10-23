@@ -1,9 +1,0 @@
-com/transportista/tarifas/config/SecurityConfig.class
-com/transportista/tarifas/dto/ClienteDTO.class
-com/transportista/tarifas/entity/Cliente.class
-com/transportista/tarifas/entity/Tarifa.class
-com/transportista/tarifas/repository/ClienteRepository.class
-com/transportista/tarifas/TarifasServiceApplication.class
-com/transportista/tarifas/controller/ClienteController.class
-com/transportista/tarifas/service/ClienteService.class
-com/transportista/tarifas/repository/TarifaRepository.class
